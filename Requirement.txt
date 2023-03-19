@@ -1,0 +1,8 @@
+pandas 
+sklearn
+streamlit
+plotly
+base64
+openai
+pymongo
+streamlit_lottie
